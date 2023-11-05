@@ -1,3 +1,5 @@
+**Homework 2.1**
+
 Combination | Transcription | Examples
 ---|---|---
 ee | [i:] | see - видеть, tree - дерево, free - бесплатный, three - три, degree - степень
@@ -35,3 +37,26 @@ eigh | [eɪ] | eight - восемь, weight - вес, height - высота, nei
 au | [ɔ:] | audience - аудитория, autumn - осень, fraud - мошенничество, author - автор, fault - неисправность
 gh | [f] | laugh - смеяться, rough - грубый, tough - жесткий, enough - достаточно, though - хотя
 aught | [ɔ:t] | taught - научил, caught - поймал, sought - искал, brought - принес, thought - мысль
+
+\
+**Homework 2.2**
+ru | en
+--- | ---
+836 | eight hundred thirty-six
+945 | nine hundred forty-five
+75-й | seventy-fifth
+21-й | twenty-first
+11-й | eleventh
+18-й | eighteenth
+1986-й год | nineteen eighty-sixth year
+1777-й год | seventeen seventy-seventh year
+2010-й год | two thousand tenth year
+2022-й год | two thousand twenty-second year
+87012521010 | eight seven oh one two five two one oh one oh
+87771412215 | eight triple seven one four one double two one five
+87055547997 | eight seven oh triple five four seven double nine seven
+87077206387 | eight seven oh double seven two oh six three eight seven
+15-е марта | fifteenth of March
+26-е апреля | twenty-sixth of April
+1-е июля | first of July
+23-е апреля | twenty-third of April
