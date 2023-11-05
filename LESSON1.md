@@ -2,42 +2,44 @@
 
 **Lesson 1**
 
+\
 **English alphabet**
 
 Letter | Pronunciation
-:--- | :---
-Aa | [эй]
-Bb | [бии]
-Cc | [сии]
-Dd | [дии]
-Ee | [и]
-Ff | [эф]
-Gg | [джии]
-Hh | [эйч]
-Ii | [ай]
-Jj | [джэй]
-Kk | [кей]
-Ll | [эл]
-Mm | [эм]
-Nn | [эн]
-Oo | [оу]
-Pp | [пии]
-Qq | [кьйу]
-Rr | [аа(р)]
-Ss | [эсс]
-Tt | [тии]
-Uu | [йу]
-Vv | [вии]
-Ww | [дабл-йу]
-Xx | [экс]
-Yy | [уай]
-Zz | [зэд]
+--- | ---
+Aa | [eɪ]
+Bb | [biː]
+Cc | [siː]
+Dd | [diː]
+Ee | [iː]
+Ff | [ɛf]
+Gg | [dʒiː]
+Hh | [eɪtʃ]
+Ii | [aɪ]
+Jj | [dʒeɪ]
+Kk | [keɪ]
+Ll | [ɛl]
+Mm | [ɛm]
+Nn | [ɛn]
+Oo | [oʊ]
+Pp | [piː]
+Qq | [kjuː]
+Rr | [ɑːr]
+Ss | [ɛs]
+Tt | [tiː]
+Uu | [juː]
+Vv | [viː]
+Ww | [ˈdʌbəljuː]
+Xx | [ɛks]
+Yy | [waɪ]
+Zz | [zɛd]
 
+\
 **Vowels**
 
 / | a | o | e | u | i
 :--- | :--- | :--- | :--- | :--- | :---
-I type (open) | d***a***te [эй - дэйт] | h***o***me [оу - хоум] | h***e*** [и - хи] | c***u***te [йу - кьйут] | f***i***ne [ай - файн]
-II type (closed) | c***a***t [ә - кәт] | d***o***g [о - дог] | h***e***n [э - хэн] | c***u***t [а - кат] | f***i***n [и - фин]
-III type (+r) | d***ar***k [а(р) - даа(р)к] | h***or***n [о(р) - хоо(р)н] | t***er***m [ө(р) - тө(р)м] | f***ur*** [ө(р) - фө(р)] | f***ir*** [ө(р) - фө(р)]
-IV type (+r+e) | d***are*** [эйә - дэйә] | m***ore*** [оо - моо] | h***ere*** [иә - хиә] | p***ure*** [уә - пуә] | f***ire*** [айә - файә]
+I type (open) | d***a***te [eɪ - deɪt] | h***o***me [oʊ - hoʊm] | h***e*** [iː - hiː] | c***u***te [juː - kjuːt] | f***i***ne [aɪ - faɪn]
+II type (closed) | c***a***t [æ - kæt] | d***o***g [ɔː - dɔːg] | h***e***n [ɛ - hɛn] | c***u***t [ʌ - kʌt] | f***i***n [ɪ - fɪn]
+III type (+r) | d***ar***k [ɑː - dɑːrk] | h***or***n [ɔː - hɔːrn] | t***er***m [ɜː - tɜːrm] | f***ur*** [ɜː - fɜːr] | f***ir*** [ɜː - fɜːr]
+IV type (+r+e) | d***are*** [ɛə - dɛər] | m***ore*** [ɔː - mɔːr] | h***ere*** [ɪə - hɪər] | p***ure*** [jʊə - pjʊər] | f***ire*** [aɪə - faɪər]
