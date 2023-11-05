@@ -1,7 +1,7 @@
 **Homework 2.1**
 
 Combination | Transcription | Examples
----|---|---
+--- | --- | ---
 ee | [i:] | see - видеть, tree - дерево, free - бесплатный, three - три, degree - степень
 ea | [ı:] | sea - море, meat - мясо, beat - бить, read - читать, heat - жара
 oo | [u] | too - слишком, pool - бассейн, cool - прохладный, school - школа, stool - табурет
@@ -40,6 +40,7 @@ aught | [ɔ:t] | taught - научил, caught - поймал, sought - иска
 
 \
 **Homework 2.2**
+
 ru | en
 --- | ---
 836 | eight hundred thirty-six
