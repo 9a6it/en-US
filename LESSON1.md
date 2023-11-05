@@ -5,7 +5,7 @@
 \
 **English alphabet**
 
-Letter | Pronunciation
+Letter | Transcription
 --- | ---
 Aa | [eɪ]
 Bb | [biː]
