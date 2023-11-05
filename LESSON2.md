@@ -2,10 +2,11 @@
 
 **Lesson 2**
 
+\
 **English numbers**
 
 Cardinal numbers | Ordinal numbers
-:--- | :---
+--- | ---
 1 - one | 1st - first
 2 - two | 2nd - second
 3 - three | 3rd - third
@@ -46,3 +47,44 @@ Cardinal numbers | Ordinal numbers
 10000000 - ten million | 10000000th - ten millionth
 100000000 - one hundred million | 100000000th - one hundred millionth
 1000000000 - one billion | 1000000000th - one billionth
+
+\
+**Phonemes**
+
+Combination | Transcription
+---|---
+ee | [i:]
+ea | [ı:]
+oo | [u]
+th | [ð] [θ]
+sh | [ʃ]
+ch | [tʃ]
+ph | [f]
+ck | [k]
+ng | [ŋ]
+wh | [w]
+wr | [r]
+qu | [kw]
+igh | [aɪ]
+all | [ɔ:l]
+ai | [eɪ]
+ay | [eɪ]
+oi | [ɔɪ]
+oy | [ɔɪ]
+ow | [əʊ]
+ou | [aʊ]
+ew | [ju:]
+aw | [ɔ:]
+ee+r | [ɪə]
+ou+r | [aʊə]
+oo+r | [ɔ:]
+wo+r | [ɜ:]
+ai+r | [eə]
+oa+r | [ɔ:]
+ould | [ʊd]
+ound | [aʊnd]
+eigh | [eɪ]
+y | [ɪ]
+au | [ɔ:]
+gh | [f]
+aught | [ɔ:t]
