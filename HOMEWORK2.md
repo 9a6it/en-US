@@ -23,7 +23,7 @@ ou | [aʊ] | out - вне, house - дом, loud - громкий, round - кру
 ew | [ju:] | knew - знал, drew - рисовал, crew - команда, view - вид, few - немного
 aw | [ɔ:] | draw - рисовать, law - закон, raw - сырой, saw - пила, claw - коготь
 ee+r | [ɪə] | beer - пиво, cheer - радость, peer - сверстник, steer - управлять, volunteer - волонтер
-ou+r | [aʊə] | flour - мука, hour - час, sour - кислый, power - мощность, sour - источник
+ou+r | [aʊə] | flour - мука, hour - час, sour - кислый, power - мощность, sour - кислый
 oo+r | [ɔ:] | door - дверь, poor - бедный, floor - пол, more - больше, store - магазин
 wo+r | [ɜ:] | work - работать, word - слово, world - мир, worth - стоимость, worm - червь
 ai+r | [eə] | chair - стул, hair - волосы, repair - ремонт, air - воздух, fair - ярмарка
@@ -32,6 +32,6 @@ ould | [ʊd] | could - мог, would - будет, should - должен, hood -
 ound | [aʊnd] | round - круглый, pound - фунт, sound - звук, found - найдено, ground - земля
 eigh | [eɪ] | eight - восемь, weight - вес, height - высота, neighbor - сосед, sleigh - сани
 -y | [ɪ] | tiny - крошечный, dirty - грязный, happy - счастливый, city - город, family - семья
-au | [ɔ:] | Paul - Пол, autumn - осень, August - август, author - автор, fault - неисправность
+au | [ɔ:] | audience - аудитория, autumn - осень, fraud - мошенничество, author - автор, fault - неисправность
 gh | [f] | laugh - смеяться, rough - грубый, tough - жесткий, enough - достаточно, though - хотя
 aught | [ɔ:t] | taught - научил, caught - поймал, sought - искал, brought - принес, thought - мысль
