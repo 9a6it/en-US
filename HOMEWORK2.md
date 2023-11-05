@@ -1,7 +1,7 @@
 Combination | Transcription | Examples
 ---|---|---
 ee | [i:] | see - видеть, tree - дерево, free - бесплатный, three - три, degree - степень
-ea | [ı:] | sea - море, meat - мясо, beat - бить, read - читать, meat - встреча
+ea | [ı:] | sea - море, meat - мясо, beat - бить, read - читать, heat - жара
 oo | [u] | too - слишком, pool - бассейн, cool - прохладный, school - школа, stool - табурет
 th | [ð] [θ] | this - это, that - тот, them - их, think - думать, theory - теория
 sh | [ʃ] | she - она, ship - корабль, show - показать, wish - желание, push - толкать
