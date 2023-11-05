@@ -52,7 +52,7 @@ Cardinal numbers | Ordinal numbers
 **Phonemes**
 
 Combination | Transcription
----|---
+--- | ---
 ee | [i:]
 ea | [ı:]
 oo | [u]
