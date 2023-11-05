@@ -38,7 +38,7 @@ Zz | [zɛd]
 **Vowels**
 
 / | a | o | e | u | i
-:--- | :--- | :--- | :--- | :--- | :---
+--- | --- | --- | --- | --- | ---
 I type (open) | d***a***te [eɪ - deɪt] | h***o***me [oʊ - hoʊm] | h***e*** [iː - hiː] | c***u***te [juː - kjuːt] | f***i***ne [aɪ - faɪn]
 II type (closed) | c***a***t [æ - kæt] | d***o***g [ɔː - dɔːg] | h***e***n [ɛ - hɛn] | c***u***t [ʌ - kʌt] | f***i***n [ɪ - fɪn]
 III type (+r) | d***ar***k [ɑː - dɑːrk] | h***or***n [ɔː - hɔːrn] | t***er***m [ɜː - tɜːrm] | f***ur*** [ɜː - fɜːr] | f***ir*** [ɜː - fɜːr]
