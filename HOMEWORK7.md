@@ -1,6 +1,6 @@
 **Opposities**
 
-* | *
+/ | /
 --- | ---
 alive | dead
 big | small
