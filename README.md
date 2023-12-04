@@ -1,4 +1,6 @@
 * [Lesson 1 (2023-10-30)](LESSON1.md)
 * [Lesson 2 (2023-11-01)](LESSON2.md) / [Homework 2 (2023-11-01)](HOMEWORK2.md)
 * [Lesson 3 (2023-11-06)](LESSON3.md)
-* 
+* [Lesson 4 (2023-11-08)](LESSON4.md)
+* [Lesson 5 (2023-11-13)](LESSON5.md)
+* [Lesson 6 (2023-11-15)](LESSON6.md)
