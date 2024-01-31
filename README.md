@@ -1,6 +1,7 @@
 - [**English alphabet**](README.md#english-alphabet)
 - [**Vowels**](README.md#vowels)
-- [**Vowels**](README.md#vowels)
+- [**Numbers**](README.md#numbers)
+- [**Phonemes**](README.md#phonemes)
 
 ## English alphabet
 
