@@ -1,9 +1,9 @@
 # Index
 
-- [**English alphabet**](README.md#english-alphabet)
-- [**Vowels**](README.md#vowels)
-- [**Numbers**](README.md#numbers)
-- [**Phonemes**](README.md#phonemes)
+- [**English alphabet**](README.md#english-alphabet--)
+- [**Vowels**](README.md#vowels--)
+- [**Numbers**](README.md#numbers--)
+- [**Phonemes**](README.md#phonemes--)
 
 ## English alphabet | [▲](README.md#index)
 
