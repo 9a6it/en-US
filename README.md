@@ -1,9 +1,11 @@
+# Index
+
 - [**English alphabet**](README.md#english-alphabet)
 - [**Vowels**](README.md#vowels)
 - [**Numbers**](README.md#numbers)
 - [**Phonemes**](README.md#phonemes)
 
-## English alphabet
+## English alphabet | [▲](README.md#index)
 
 Letter | Transcription
 --- | ---
@@ -34,7 +36,7 @@ Xx | [ɛks]
 Yy | [waɪ]
 Zz | [zɛd]
 
-## Vowels
+## Vowels | [▲](README.md#index)
 
 / | a | o | e | u | i
 --- | --- | --- | --- | --- | ---
@@ -43,7 +45,7 @@ II type (closed) | c***a***t [æ - kæt] | d***o***g [ɔː - dɔːg] | h***e***n
 III type (+r) | d***ar***k [ɑː - dɑːrk] | h***or***n [ɔː - hɔːrn] | t***er***m [ɜː - tɜːrm] | f***ur*** [ɜː - fɜːr] | f***ir*** [ɜː - fɜːr]
 IV type (+r+e) | d***are*** [ɛə - dɛər] | m***ore*** [ɔː - mɔːr] | h***ere*** [ɪə - hɪər] | p***ure*** [jʊə - pjʊər] | f***ire*** [aɪə - faɪər]
 
-## Numbers
+## Numbers | [▲](README.md#index)
 
 Cardinal numbers | Ordinal numbers
 --- | ---
@@ -88,7 +90,7 @@ Cardinal numbers | Ordinal numbers
 100000000 - one hundred million | 100000000th - one hundred millionth
 1000000000 - one billion | 1000000000th - one billionth
 
-## Phonemes
+## Phonemes | [▲](README.md#index)
 
 Combination | Transcription
 --- | ---
