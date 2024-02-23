@@ -9,7 +9,7 @@
 - [**Time**](README.md#time--)
 - [**Possessive adjectives and pronouns**](README.md#possessive-adjectives-and-pronouns--)
 - [**Plural nouns**](README.md#plural-nouns--)
-- [**Comparative & superlative adjectives**](README.md#comparative-&-superlative-adjectives--)
+- [**Comparative & superlative adjectives**](README.md#comparative--superlative-adjectives--)
 
 ## English alphabet | [▲](README.md#index)
 
