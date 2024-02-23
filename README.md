@@ -135,6 +135,7 @@ gh | [f]
 aught | [ɔ:t]
 
 ## Time | [▲](README.md#index)
+
 - It's [hour] o'clock
 - It's [minute] past [hour]
 - It's [minute] to [next hour]
@@ -150,6 +151,7 @@ English | Русский | Example | Пример
 **from ... to** | **с ... до** | from 2 to 5 o'clock | с 2 до 5 часов
 
 ## Possessive adjectives and pronouns | [▲](README.md#index)
+
 Possessive adjectives | Possessive pronouns
 --- | ---
 My | Mine
@@ -160,3 +162,25 @@ Its | -
 Our | Ours
 Your | Yours
 Their | Theirs
+
+Singular | Plural
+--- | ---
+This | These
+That | Those
+
+## Plural nouns | [▲](README.md#index)
+
+- Noun+[s]
+
+**Irregural plural nouns**
+Singular | Plural
+--- | ---
+Child | Children
+Woman | Women
+Man | Men
+Goose | Geese
+Mouse | Mice
+Foot | Feet
+Tooth | Teeth
+Cactus | Cacti
+Person | People
