@@ -6,6 +6,7 @@
 - [**Vowels**](README.md#vowels--)
 - [**Numbers**](README.md#numbers--)
 - [**Phonemes**](README.md#phonemes--)
+- [**Time**](README.md#time--)
 
 ## English alphabet | [▲](README.md#index)
 
@@ -131,3 +132,19 @@ y | [ɪ]
 au | [ɔ:]
 gh | [f]
 aught | [ɔ:t]
+
+## Time | [▲](README.md#index)
+
+- It's [hour] o'clock
+- It's [minute] past [hour]
+- It's [minute] to [next hour]
+
+English | Русский | Example | Пример
+--- | --- | --- | ---
+**at** | **в** | at 2 o'clock | в 2 часа
+**by** | **к**, **до** | by 2 o'clock | к 2-м часам
+**for** | **в**, **течение**, **за** | for 2 hours | в течение 2-х часов
+**since** | **с** | since 2 o'clock | с 2-х часов
+**till** | **до** | till 2 o'clock | до 2-х часов
+**in** | **через** | in 2 hours | через 2 часа
+**from ... to** | **с ... до** | from 2 to 5 o'clock | с 2 до 5 часов
