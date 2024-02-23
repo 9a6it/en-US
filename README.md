@@ -7,6 +7,7 @@
 - [**Numbers**](README.md#numbers--)
 - [**Phonemes**](README.md#phonemes--)
 - [**Time**](README.md#time--)
+- [**Possessive adjectives and pronouns**](README.md#possessive-adjectives-and-pronouns--)
 
 ## English alphabet | [▲](README.md#index)
 
@@ -134,7 +135,6 @@ gh | [f]
 aught | [ɔ:t]
 
 ## Time | [▲](README.md#index)
-
 - It's [hour] o'clock
 - It's [minute] past [hour]
 - It's [minute] to [next hour]
@@ -148,3 +148,15 @@ English | Русский | Example | Пример
 **till** | **до** | till 2 o'clock | до 2-х часов
 **in** | **через** | in 2 hours | через 2 часа
 **from ... to** | **с ... до** | from 2 to 5 o'clock | с 2 до 5 часов
+
+## Possessive adjectives and pronouns | [▲](README.md#index)
+Possessive adjectives | Possessive pronouns
+--- | ---
+My | Mine
+Your | Yours
+His | His
+Her | Hers
+Its | -
+Our | Ours
+Your | Yours
+Their | Theirs
