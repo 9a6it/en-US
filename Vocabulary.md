@@ -1,3 +1,5 @@
+**Family**
+
 English | Русский
 --- | ---
 Family | Семья
@@ -24,7 +26,6 @@ Niece | Племянница
 Spouse | Супруг(а)
 Husband | Муж
 Wife | Жена
-In-Law | Зять/Невестка/Свекровь/Тесть
 Father-In-Law | Свекор
 Mother-In-Law | Свекровь
 Son-In-Law | Зять
