@@ -8,6 +8,8 @@
 - [**Phonemes**](README.md#phonemes--)
 - [**Time**](README.md#time--)
 - [**Possessive adjectives and pronouns**](README.md#possessive-adjectives-and-pronouns--)
+- [**Plural nouns**](README.md#plural-nouns--)
+- [**Comparative & superlative adjectives**](README.md#comparative-&-superlative-adjectives--)
 
 ## English alphabet | [▲](README.md#index)
 
@@ -163,14 +165,7 @@ Our | Ours
 Your | Yours
 Their | Theirs
 
-Singular | Plural
---- | ---
-This | These
-That | Those
-
 ## Plural nouns | [▲](README.md#index)
-
-- Noun+[s]
 
 **Irregural plural nouns**
 Singular | Plural
@@ -184,3 +179,26 @@ Foot | Feet
 Tooth | Teeth
 Cactus | Cacti
 Person | People
+
+## Comparative & superlative adjectives | [▲](README.md#index)
+
+**One syllable**
+Adjectives | Comparative | Superlative
+--- | --- | ---
+**x** | **x+[er]** | **x+[est]**
+**x+e** | **x[-e]+[er]** | **x[-e]+[est]**
+**x+y** | **x[-y -> i]+[er]** | **x[-y -> i]+[est]**
+
+**Two or more syllables**
+Adjectives | Comparative | Superlative
+--- | --- | ---
+**x** | **more x** | **most x**
+
+**Irregural comparative & superlative adjectives**
+Adjectives | Comparative | Superlative
+--- | --- | ---
+Good | Better | Best
+Bad | Worse | Worst
+Little | Less | Least
+Many/Much | More | Most
+Far | Farther/Further | Farthest/Furthest
