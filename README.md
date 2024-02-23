@@ -1,4 +1,4 @@
-- [**Vocobulary**](Vocobulary.md)
+- [**Vocabulary**](Vocabulary.md)
 
 # Index
 
