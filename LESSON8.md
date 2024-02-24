@@ -1,1 +1,0 @@
-**Superlative adjectives**
