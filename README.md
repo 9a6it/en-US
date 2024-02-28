@@ -11,6 +11,7 @@
 - [**Plural nouns**](README.md#plural-nouns--)
 - [**Comparative & superlative adjectives**](README.md#comparative--superlative-adjectives--)
 - [**Interrogative pronouns**](README.md#interrogative-pronouns--)
+- [**Prepositions of place**](README.md#prepositions-of-place--)
 
 ## English alphabet | [▲](README.md#index)
 
@@ -226,3 +227,42 @@ How many | Сколько (исчисляемые сущности)
 How long | Как долго
 How often | Как часто
 
+## Prepositions of place | [▲](README.md#index)
+
+Prepositions of place | Translation
+--- | ---
+Above | Над
+Across | Через
+Against | Против
+Along | Вдоль
+Among | Среди
+Around | Вокруг
+At | У, В
+Behind | Позади
+Below | Под
+Beneath | Под
+Beside | Рядом с
+Between | Между
+By | У, Рядом с
+Down | Вниз
+From | Из, От
+In | В
+In front of | Перед
+Inside | Внутри
+Into | В
+Near | Возле
+Next to | Рядом с
+Off | С
+On | На
+Onto | На
+Opposite | Напротив
+Out | Вне
+Outside | Снаружи
+Over | Над
+Past | Мимо
+Through | Через
+To | К
+Toward | К
+Under | Под
+Underneath | Под
+Up | Вверх
