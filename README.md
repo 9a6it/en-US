@@ -189,15 +189,15 @@ Person | People
 
 Adjectives | Comparative | Superlative
 --- | --- | ---
-**adj** | **adj+er** | **adj+est**
-**adj+e** | **adj+er** | **adj+est**
-**adj+y** | **adj+ier** | **adj+iest**
+adj | adj+**er** | adj+**est**
+adj+*e* | adj+**er** | adj+**est**
+adj+*y* | adj+**ier** | adj+**iest**
 
 **Two or more syllables**
 
 Adjectives | Comparative | Superlative
 --- | --- | ---
-**adj** | **more adj** | **most adj**
+adj | **more** adj | **most** adj
 
 **Irregural comparative & superlative adjectives**
 
