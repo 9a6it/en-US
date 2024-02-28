@@ -10,6 +10,7 @@
 - [**Possessive adjectives and pronouns**](README.md#possessive-adjectives-and-pronouns--)
 - [**Plural nouns**](README.md#plural-nouns--)
 - [**Comparative & superlative adjectives**](README.md#comparative--superlative-adjectives--)
+- [**Interrogative pronouns**](README.md#interrogative-pronouns--)
 
 ## English alphabet | [▲](README.md#index)
 
@@ -168,6 +169,7 @@ Their | Theirs
 ## Plural nouns | [▲](README.md#index)
 
 **Irregural plural nouns**
+
 Singular | Plural
 --- | ---
 Child | Children
@@ -183,18 +185,21 @@ Person | People
 ## Comparative & superlative adjectives | [▲](README.md#index)
 
 **One syllable**
+
 Adjectives | Comparative | Superlative
 --- | --- | ---
-**x** | **x+[er]** | **x+[est]**
-**x+e** | **x[-e]+[er]** | **x[-e]+[est]**
-**x+y** | **x[-y -> i]+[er]** | **x[-y -> i]+[est]**
+**adj** | **adj+er** | **adj+est**
+**adj+e** | **adj+er** | **adj+est**
+**adj+y** | **adj+ier** | **adj+iest**
 
 **Two or more syllables**
+
 Adjectives | Comparative | Superlative
 --- | --- | ---
-**x** | **more x** | **most x**
+**adj** | **more adj** | **most adj**
 
 **Irregural comparative & superlative adjectives**
+
 Adjectives | Comparative | Superlative
 --- | --- | ---
 Good | Better | Best
@@ -202,3 +207,22 @@ Bad | Worse | Worst
 Little | Less | Least
 Many/Much | More | Most
 Far | Farther/Further | Farthest/Furthest
+
+## Interrogative pronouns | [▲](README.md#index)
+
+Interrogative pronouns | Translation
+--- | ---
+What | Что
+Where | Где
+When | Когда
+Why | Почему
+Who | Кто
+Which | Который
+Whom | Кому
+Whose | Чей
+How | Как
+How much | Сколько (неисчисляемые сущности)
+How many | Сколько (исчисляемые сущности)
+How long | Как долго
+How often | Как часто
+
