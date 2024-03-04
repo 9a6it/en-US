@@ -37,3 +37,15 @@
 | We | did + not + V | do + not + V | will + not + V |
 | You | did + not + V | do + not + V | will + not + V |
 | They | did + not + V| do + not + V | will + not + V |
+
+---
+
+**Continuous to be +**
+| S | Past | Present | Future |
+|---|---|---|---|
+| I | was + V-ing | am + V-ing | will be + V-ing |
+| You | were + V-ing | are + V-ing | will be + V-ing |
+| He/She/It | was + V-ing | is + V-ing | will be + V-ing |
+| We | were + V-ing | are + V-ing | will be + V-ing |
+| You | were + V-ing | are + V-ing | will be + V-ing |
+| They | were + V-ing | are + V-ing | will be + V-ing |
