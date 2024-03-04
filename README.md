@@ -1,3 +1,9 @@
+(to be) | I | You | He/She/It | We | You | They
+---|---|---|---|---|---|---
+Past Simple | was | were | was | were | were | were
+Present Simple | am | are | is | are | are | are
+Future Simple | will be | will be | will be | will be | will be | will be
+
 - [**Vocabulary**](Vocabulary.md)
 
 # Index
