@@ -49,3 +49,13 @@
 | We | were + V-ing | are + V-ing | will be + V-ing |
 | You | were + V-ing | are + V-ing | will be + V-ing |
 | They | were + V-ing | are + V-ing | will be + V-ing |
+
+**Continuous to be -**
+| S | Past | Present | Future |
+|---|---|---|---|
+| I | was not + V-ing | am not + V-ing | will not be + V-ing |
+| You | were not + V-ing | are not + V-ing | will not be + V-ing |
+| He/She/It | was not + V-ing | is not + V-ing | will not be + V-ing |
+| We | were not + V-ing | are not + V-ing | will not be + V-ing |
+| You | were not + V-ing | are not + V-ing | will not be + V-ing |
+| They | were not + V-ing | are not + V-ing | will not be + V-ing |
