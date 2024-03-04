@@ -4,6 +4,12 @@ Past Simple | was | were | was | were | were | were
 Present Simple | am | are | is | are | are | are
 Future Simple | will be | will be | will be | will be | will be | will be
 
+(+) | I | You | He/She/It | We | You | They
+---|---|---|---|---|---|---
+Past Simple | V2 | V2 | V2 | V2 | V2 | V2
+Present Simple | V | V | V+s | V | V | V
+Future Simple | will V | will V | will V | will V | will V | will V
+
 - [**Vocabulary**](Vocabulary.md)
 
 # Index
