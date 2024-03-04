@@ -41,8 +41,9 @@
 | You | did + not + V | do + not + V | will + not + V |
 | They | did + not + V| do + not + V | will + not + V |
 
-\
-**Continuous to be +**
+---
+
+**Continuous to be V +**
 
 | S | Past | Present | Future |
 |---|---|---|---|
@@ -53,7 +54,7 @@
 | You | were + V-ing | are + V-ing | will be + V-ing |
 | They | were + V-ing | are + V-ing | will be + V-ing |
 
-**Continuous to be -**
+**Continuous to be V -**
 
 | S | Past | Present | Future |
 |---|---|---|---|
