@@ -10,7 +10,13 @@ Past Simple | was not | were not | was not | were not | were not | were not
 Present Simple | am not | are not | is not | are not | are not | are not
 Future Simple | will not be | will not be | will not be | will not be | will not be | will not be
 
+(to be ?) | I | You | He/She/It | We | You | They
+---|---|---|---|---|---|---
+Past Simple | was S | were S | was S | were S | were S | were S
+Present Simple | am S | are S | is S | are S | are S | are S
+Future Simple | will S be | will S be | will S be | will S be | will S be | will S be
 
+---
 
 (+) | I | You | He/She/It | We | You | They
 ---|---|---|---|---|---|---
