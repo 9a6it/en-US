@@ -18,11 +18,25 @@ Future Simple | will S be | will S be | will S be | will S be | will S be | will
 
 ---
 
-(+) | I | You | He/She/It | We | You | They
+(V +) | I | You | He/She/It | We | You | They
 ---|---|---|---|---|---|---
 Past Simple | V2 | V2 | V2 | V2 | V2 | V2
 Present Simple | V | V | V+s | V | V | V
 Future Simple | will V | will V | will V | will V | will V | will V
+
+(V -) | I | You | He/She/It | We | You | They
+---|---|---|---|---|---|---
+Past Simple | did + not + V | did + not + V | did + not + V | did + not + V | did + not + V | did + not + V
+Present Simple | do + not + V | do + not + V | does + not + V | do + not + V | do + not + V | do + not + V
+Future Simple | will + not + V | will + not + V | will + not + V | will + not + V | will + not + V | will + not + V
+
+(V ?) | I | You | He/She/It | We | You | They
+---|---|---|---|---|---|---
+Past Simple | Did S V? | Did S V? | Did S V? | Did S V? | Did S V? | Did S V?
+Present Simple | Does S V? | Do S V? | Does S V? | Do S V? | Do S V? | Do S V?
+Future Simple | Will S V? | Will S V? | Will S V? | Will S V? | Will S V? | Will S V?
+
+---
 
 - [**Vocabulary**](Vocabulary.md)
 
