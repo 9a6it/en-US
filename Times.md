@@ -1,4 +1,5 @@
 **Simple to be +**
+
 | S | Past | Present | Future |
 |---|---|---|---|
 | I | was | am | will be |
@@ -9,6 +10,7 @@
 | They | were | are | will be |
 
 **Simple to be -**
+
 | S | Past | Present | Future |
 |---|---|---|---|
 | I | was not | am not | will not be |
@@ -19,6 +21,7 @@
 | They | were not | are not | will not be |
 
 **Simple V +**
+
 | S | Past | Present | Future |
 |---|---|---|---|
 | I | V2 | V | will V |
@@ -38,9 +41,9 @@
 | You | did + not + V | do + not + V | will + not + V |
 | They | did + not + V| do + not + V | will + not + V |
 
----
-
+\
 **Continuous to be +**
+
 | S | Past | Present | Future |
 |---|---|---|---|
 | I | was + V-ing | am + V-ing | will be + V-ing |
@@ -51,6 +54,7 @@
 | They | were + V-ing | are + V-ing | will be + V-ing |
 
 **Continuous to be -**
+
 | S | Past | Present | Future |
 |---|---|---|---|
 | I | was not + V-ing | am not + V-ing | will not be + V-ing |
