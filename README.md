@@ -1,8 +1,16 @@
-(to be) | I | You | He/She/It | We | You | They
+(to be +) | I | You | He/She/It | We | You | They
 ---|---|---|---|---|---|---
 Past Simple | was | were | was | were | were | were
 Present Simple | am | are | is | are | are | are
 Future Simple | will be | will be | will be | will be | will be | will be
+
+(to be -) | I | You | He/She/It | We | You | They
+---|---|---|---|---|---|---
+Past Simple | was not | were not | was not | were not | were not | were not
+Present Simple | am not | are not | is not | are not | are not | are not
+Future Simple | will not be | will not be | will not be | will not be | will not be | will not be
+
+
 
 (+) | I | You | He/She/It | We | You | They
 ---|---|---|---|---|---|---
