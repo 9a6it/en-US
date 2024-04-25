@@ -9,13 +9,11 @@
 | # | Word | Type | Translation |
 | --- | --- | --- | --- |
 | 1 | **a, an** | `indefinite article` | - |
-| 2 | **about** | `adverb` | приблизительно, почти |
-| 3 | **about** | `preposition` | около, про, вокруг, о |
-| 4 | **above** | `adverb` | выше |
-| 5 | **above** | `preposition` | выше, над |
-| 6 | **across** | `adverb` | напротив |
-| 7 | **across** | `preposition` | через |
-| 8 | **action** | `noun` | действие, меры, акция |
-| 9 | **activity** | `noun` | деятельность, активность |
-| 10 | **actor** | `noun` | актёр, артист |
-| 11 | **actress** | `noun` | актриса |
+| 2 | **about** | `adverb` / `preposition` | приблизительно, почти / около, про, вокруг, о |
+| 3 | **above** | `adverb` / `preposition` | выше / над |
+| 4 | **across** | `adverb` / `preposition` | напротив / через |
+| 5 | **action** | `noun` | действие, меры, акция |
+| 6 | **activity** | `noun` | деятельность, активность |
+| 7 | **actor** | `noun` | актёр, артист |
+| 8 | **actress** | `noun` | актриса |
+| 9 | 
